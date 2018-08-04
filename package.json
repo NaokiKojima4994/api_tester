@@ -1,0 +1,19 @@
+{
+  "name": "api_tester",
+  "version": "1.0.0",
+  "description": "api_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaokiKojima4994/api_tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaokiKojima4994/api_tester/issues"
+  },
+  "homepage": "https://github.com/NaokiKojima4994/api_tester#readme"
+}
